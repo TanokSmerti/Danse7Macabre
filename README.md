@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danse7Macabre
+- 👋 Hi, I’m Danse Macabre
 - 👀 I’m interested in Games and AI
 - I’m currently learning Python
 - Collaboration? Sure! Just be ready for me to be a noob 😀
