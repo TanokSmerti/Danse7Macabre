@@ -3,4 +3,4 @@
 - I’m currently learning Python
 - Collaboration? Sure! 
 - Contact me at your own risk:
-https://t.me/Danse_Macabre on Telegram and **__danse_macabre__** on Discord
+[via Telegram](https://t.me/Danse_Macabre) or [via Discord](https://discordapp.com/users/981540440711004231)
